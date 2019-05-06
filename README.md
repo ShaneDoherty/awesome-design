@@ -8,6 +8,7 @@
 - [Icon and Logo](#icon-and-logo)
 - [Color](#color)
 - [Typography](#typography)
+- [UI Inspiration](#ui-inspiration)
 - [Software](#software)
 - [Prototyping](#prototyping)
 - [Mockup](#mockup)
@@ -176,6 +177,9 @@ No need to mention the author.
 - [Typ.io](https://typ.io) at Typ.io, we're revealing designers' decisions for all to see; peeking under the hood of beautiful websites to find out what fonts they're using and how they're using them.
 - [TypeNetwork](https://www.typenetwork.com/)
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
+
+## UI Inspiration
+- [UpLabs](https://www.uplabs.com/)
 
 ## Software
 
