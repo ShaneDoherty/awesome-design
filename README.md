@@ -195,6 +195,7 @@ No need to mention the author.
 - [Blueprints](https://www.the-blueprints.com/) Blueprints of vehicles
 - [Blueprints](https://drawingdatabase.com/) More blueprints of vehicles
 - [GLTF Viewer](https://gltf-viewer.donmccurdy.com/)
+- [Substance Source](https://source.allegorithmic.com/assets)
 
 
 ## 3D Inspiration
