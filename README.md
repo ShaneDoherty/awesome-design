@@ -11,6 +11,7 @@
 - [UI Inspiration](#ui-inspiration)
 - [3D Assets](#3d-assets)
 - [3D Inspiration](#3d-inspiration)
+- [Motion](#motion)
 - [Prototyping](#prototyping)
 - [Mockup](#mockup)
 - [User Testing](#user-testing)
@@ -203,6 +204,12 @@ No need to mention the author.
 - [Tim Reynolds](https://www.turnislefthome.com/projects) 3D Artist
 - [Keijiro's Dev Log](https://radiumsoftware.tumblr.com/archive#_=_)
 - [Andy Duboc Unity Shader Repo](https://github.com/andydbc?tab=repositories)
+
+## Motion
+- [School of Motion](https://www.schoolofmotion.com/)
+- [Video Copilot](https://www.videocopilot.net/)
+- [Easing](https://easings.net/en) Showcasing of types of easing
+- [Cubic Bezier](https://cubic-bezier.com) Create the data points for easing curve
 
 ## Prototyping
 
@@ -445,7 +452,9 @@ No need to mention the author.
 - [Ronja's Unity Shader Tutorials](http://www.ronja-tutorials.com/)
 - [Unreal Academy](https://academy.unrealengine.com/)
 - [Unreal Docs](https://docs.unrealengine.com/en-us/)
-
+- [School of Motion](https://www.schoolofmotion.com/tutorials)
+- [Video Copilot](https://www.videocopilot.net/tutorials/)
+- [Mat Trunks](https://mattrunks.com/en/tutorials) C4D Tutorials
 
 ## Book
 
