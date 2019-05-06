@@ -8,7 +8,7 @@
 - [Icon and Logo](#icon-and-logo)
 - [Color](#color)
 - [Typography](#typography)
-- [Toolkit](#toolkit)
+- [Software](#software)
 - [Prototyping](#prototyping)
 - [Mockup](#mockup)
 - [User Testing](#user-testing)
@@ -177,7 +177,7 @@ No need to mention the author.
 - [TypeNetwork](https://www.typenetwork.com/)
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 
-## Toolkit
+## Software
 
 - [Sketch](https://www.sketchapp.com/) is a platform to empower designers to share and collaborate on their designs and work better, together. [Developer](http://developer.sketchapp.com/), [Sketch App Sources](https://www.sketchappsources.com/), [Sketch Repo](https://sketchrepo.com/), [Sketch Plugins](https://github.com/sketchplugins/plugin-directory), [Sketchcasts](https://www.sketchcasts.net/), [Sketch.im](http://sketch.im/).🌟
 - [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) Best imaging and design app is at the core of almost every creative project. [PSD Repo](https://psdrepo.com/), [PSDDD](https://psddd.co/). 🌟
