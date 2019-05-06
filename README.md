@@ -442,7 +442,8 @@ No need to mention the author.
 - [Pluralsight](https://www.pluralsight.com/)
 - [Unity Learn](https://unity.com/learn)
 - [Ronja's Unity Shader Tutorials](http://www.ronja-tutorials.com/)
-- [Unreal Shader Doc](https://docs.unrealengine.com/en-us/)
+- [Unreal Academy](https://academy.unrealengine.com/)
+- [Unreal Docs](https://docs.unrealengine.com/en-us/)
 
 
 ## Book
