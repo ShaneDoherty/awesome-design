@@ -21,6 +21,7 @@
 
 - [Read and Digest](#read-and-digest)
 - [Styleguide and Branding](#styleguide-and-branding)
+- [Google & Android](#google-android)
 - [Tutorial](#tutorial)
 - [Book](#book)
 - [Award](#award)
@@ -426,15 +427,17 @@ No need to mention the author.
 - [Clarity](http://clarity.design)
 - [Apple iOS](https://developer.apple.com/ios/human-interface-guidelines/)
 - [Apple macOS](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/)
-- [Google Trends](https://newslab.withgoogle.com/assets/docs/google-trends-guide.pdf)
-- [Google Visual Assets Guidelines](https://www.behance.net/gallery/9028077/Google-Visual-Assets-Guidelines-Part-2)
-- [Google Design for Glass](https://developers.google.com/glass/design/)
-- [Google Material Design](https://material.io/guidelines/)
 - [Microsoft Design](https://www.microsoft.com/en-us/design)
 - [Microsoft Fluent Design System](http://fluent.microsoft.com/)
 - [NASA 2011](https://sservi.nasa.gov/wp-content/uploads/2011/10/NASA_Style_Guide_v2.1.pdf)
 - [NASA 1976](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
 - [Ant Design](http://ant.design) is a design system with values of Nature and Determinacy for better user experience of enterprise applications.
+
+## Google Android
+- [Google Trends](https://newslab.withgoogle.com/assets/docs/google-trends-guide.pdf)
+- [Google Visual Assets Guidelines](https://www.behance.net/gallery/9028077/Google-Visual-Assets-Guidelines-Part-2)
+- [Google Design for Glass](https://developers.google.com/glass/design/)
+- [Google Material Design](https://material.io/guidelines/)
 
 ## Tutorial
 
