@@ -200,6 +200,7 @@ No need to mention the author.
 
 
 ## 3D Inspiration
+- [Beeple](https://www.beeple-crap.com/)
 - [Geo A Day](https://geoaday.com/) 3D Inspiration
 - [Tim Reynolds](https://www.turnislefthome.com/projects) 3D Artist
 - [Keijiro's Dev Log](https://radiumsoftware.tumblr.com/archive#_=_)
