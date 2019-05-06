@@ -9,10 +9,12 @@
 - [Color](#color)
 - [Typography](#typography)
 - [UI Inspiration](#ui-inspiration)
-- [Software](#software)
+- [3D](#3d-assets)
+- [3D Inspiration](#3d-inspiration)
 - [Prototyping](#prototyping)
 - [Mockup](#mockup)
 - [User Testing](#user-testing)
+- [Software](#software)
 
 **Concepts**
 
@@ -183,27 +185,15 @@ No need to mention the author.
 - [Onboarding](https://www.useronboard.com/user-onboarding-teardowns/) breakdowns of popular onboardings
 - [UI Pattern](http://ui-patterns.com/)
 
-## Software
+## 3D Assets
+- [Free 3D Models](https://free3d.com/)
+- [Poly](https://poly.google.com/) Googles 3D creation showcase
+- [Sketchfab](https://sketchfab.com)
 
-- [Sketch](https://www.sketchapp.com/) is a platform to empower designers to share and collaborate on their designs and work better, together. [Developer](http://developer.sketchapp.com/), [Sketch App Sources](https://www.sketchappsources.com/), [Sketch Repo](https://sketchrepo.com/), [Sketch Plugins](https://github.com/sketchplugins/plugin-directory), [Sketchcasts](https://www.sketchcasts.net/), [Sketch.im](http://sketch.im/).🌟
-- [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) Best imaging and design app is at the core of almost every creative project. [PSD Repo](https://psdrepo.com/), [PSDDD](https://psddd.co/). 🌟
-- [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) The industry-standard vector graphics app lets you create logos, icons, sketches, typography, and complex illustrations for print, web, interactive, video, and mobile. 🌟
-- [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) Bold new ways to put your ideas in motion. v
-- [Adobe Project Felix](http://www.adobe.com/products/project-felix.html) A new app for working with 3D models, materials, and lights with 2D background images to create fully rendered, high-quality images with photorealistic effects.
-- [Adobe XD](https://www.adobe.com/products/xd.html) Vector-based tool for designing and prototyping user experience for web and mobile apps. 🌟
-- [Zeplin](https://zeplin.io/) Build pixel perfect apps in peace.
-- [Panda](http://usepanda.com/) A smart news reader built for productivity, powered by integrations.
-- [INBOARD](https://inboardapp.com/) Organize your inspiration.
-- [Sip](http://sipapp.io/) The best way to collect, organize & share your colors.
-- [RightFont](https://rightfontapp.com/) The future of font manager software for Mac OS X.
-- [Dropbox](https://www.dropbox.com/) Get to all your files from anywhere, on any device, and share them with anyone. 🌟
-- [Iconjar](https://geticonjar.com/) Organize, search and use icons the easy way.
-- [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac.
-- [Inkscape](https://inkscape.org/en/) Free vector graphics tool.
-- [Figma](https://www.figma.com/) The first interface design tool with real-time collaboration. 🌟
-- [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
-- [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
-- [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
+## 3D Inspiration
+- [Geo A Day](https://geoaday.com/) 3D Inspiration
+- [Tim Reynolds](https://www.turnislefthome.com/projects) 3D Artist
+- [Free 3D Models](https://free3d.com/)
 
 ## Prototyping
 
@@ -417,6 +407,9 @@ No need to mention the author.
 - [DevDojo](https://devdojo.com/)
 - [Platzi](https://courses.platzi.com) Growth marketing Course.
 - [greyscalegorilla](https://greyscalegorilla.com/)
+- [eyedesyn](https://www.youtube.com/channel/UCjvsD9ZJRshsmhabFFUH7aA)
+- [C4D Tutorials](https://www.cinema4dtutorial.net/)
+- [Pluralsight](https://www.pluralsight.com/)
 
 ## Book
 
@@ -508,6 +501,28 @@ No need to mention the author.
 - [DeviantArt](http://www.deviantart.com/) The largest online art gallery and community.
 - [CARGO](https://2.cargocollective.com)
 - [tumblr](https://www.tumblr.com/) Come for what you love. Stay for what you discover.
+
+## Software
+
+- [Sketch](https://www.sketchapp.com/) is a platform to empower designers to share and collaborate on their designs and work better, together. [Developer](http://developer.sketchapp.com/), [Sketch App Sources](https://www.sketchappsources.com/), [Sketch Repo](https://sketchrepo.com/), [Sketch Plugins](https://github.com/sketchplugins/plugin-directory), [Sketchcasts](https://www.sketchcasts.net/), [Sketch.im](http://sketch.im/).🌟
+- [Adobe Photoshop](http://www.adobe.com/products/photoshop.html) Best imaging and design app is at the core of almost every creative project. [PSD Repo](https://psdrepo.com/), [PSDDD](https://psddd.co/). 🌟
+- [Adobe Illustrator](http://www.adobe.com/products/illustrator.html) The industry-standard vector graphics app lets you create logos, icons, sketches, typography, and complex illustrations for print, web, interactive, video, and mobile. 🌟
+- [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) Bold new ways to put your ideas in motion. v
+- [Adobe Project Felix](http://www.adobe.com/products/project-felix.html) A new app for working with 3D models, materials, and lights with 2D background images to create fully rendered, high-quality images with photorealistic effects.
+- [Adobe XD](https://www.adobe.com/products/xd.html) Vector-based tool for designing and prototyping user experience for web and mobile apps. 🌟
+- [Zeplin](https://zeplin.io/) Build pixel perfect apps in peace.
+- [Panda](http://usepanda.com/) A smart news reader built for productivity, powered by integrations.
+- [INBOARD](https://inboardapp.com/) Organize your inspiration.
+- [Sip](http://sipapp.io/) The best way to collect, organize & share your colors.
+- [RightFont](https://rightfontapp.com/) The future of font manager software for Mac OS X.
+- [Dropbox](https://www.dropbox.com/) Get to all your files from anywhere, on any device, and share them with anyone. 🌟
+- [Iconjar](https://geticonjar.com/) Organize, search and use icons the easy way.
+- [Affinity Designer](https://affinity.serif.com/en-gb/designer/) - Professional graphic design software for Mac.
+- [Inkscape](https://inkscape.org/en/) Free vector graphics tool.
+- [Figma](https://www.figma.com/) The first interface design tool with real-time collaboration. 🌟
+- [Gravit](https://www.gravit.io/) End-to-end web-based design platform.
+- [Taskade](https://www.taskade.com/) Collaborate with clients on the same page visually with team tasks, notes and meeting agendas.
+- [Framer X](https://framer.com/) Design tool for creating interactive designs, interfaces and animations.
 
 ## License
 
