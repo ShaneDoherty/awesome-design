@@ -15,6 +15,7 @@
 - [Prototyping](#prototyping)
 - [Mockup](#mockup)
 - [User Testing](#user-testing)
+- [Audio](#audio)
 - [Software](#software)
 
 **Concepts**
@@ -197,6 +198,7 @@ No need to mention the author.
 - [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/store)
 - [Sketchfab](https://sketchfab.com)
 - [Free 3D Models](https://free3d.com/)
+- [Mixamo](https://www.mixamo.com/#/)
 - [Poly](https://poly.google.com/) Googles 3D creation showcase
 - [Sketchfab](https://sketchfab.com)
 - [Blueprints](https://www.the-blueprints.com/) Blueprints of vehicles
@@ -273,6 +275,10 @@ No need to mention the author.
 - [HotJar](https://www.hotjar.com/) Includes screen recordings, heatmapping, form and funnel analysis and user feedback polls & surveys
 - [Inspectlet](https://www.inspectlet.com/) Captures user actions and browsing, generates heatmaps, records with a realtime timeline
 - [Clicktale](https://www.clicktale.com) is a user experience management platform.
+
+## Audio
+- [Orange Free Sounds](http://www.orangefreesounds.com/)
+- [Free Text to Speech](https://ttsmp3.com/)
 
 ## Software
 
