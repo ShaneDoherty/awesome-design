@@ -69,6 +69,9 @@ No need to mention the author.
 - [butdoesitfloat](http://butdoesitfloat.com/)
 - [MyanPx](https://myanpx.com/) Free photos for commercial and personal use.
 - [AllTheFreeStock](http://allthefreestock.com/)
+- [His Potion](http://www.hispotion.com/)
+- [Visual Hunt](https://visualhunt.com/)
+- [Society 6](https://society6.com)
 
 ## Color
 
@@ -103,6 +106,7 @@ No need to mention the author.
 - [Google Colors](https://material.io/guidelines/style/color.html) The Material Design color system can be used to create a color theme that reflects your brand or style.
 - [WebGradients](https://webgradients.com/) Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 - [Chinese Colors](http://zhongguose.com) is a collection of Chinese traditional colors.
+- [Design Seeds](https://www.design-seeds.com/) Colour photo blog
 
 ## Icon and Logo
 
@@ -136,6 +140,7 @@ No need to mention the author.
 - [Free Icon Shop](https://freeiconshop.com/) is a large collection of beautiful free icons in vector formats. All icons are commercially free to use. Download free icons in PNG, SVG, Ai or PSD formats.
 - [Simple Icons](https://simpleicons.org/) Free SVG icons for popular brands.
 - [iconmonstr](https://iconmonstr.com/) Free, monstrously big and continuously growing source of simple icons run by one creator.
+- [Endless Icons](http://endlessicons.com/)
 - [Octions](https://octicons.github.com/) GitHub's icons.
 - [We Love Icon Fonts](http://weloveiconfonts.com/)
 - [IconStore](https://iconstore.co/) Free icons by first-class designers.
@@ -213,6 +218,7 @@ No need to mention the author.
 - [Easing](https://easings.net/en) Showcasing of types of easing
 - [Cubic Bezier](https://cubic-bezier.com) Create the data points for easing curve
 - [Facial Motion Ref](https://imotions.com/blog/facial-action-coding-system/) Facial Action Coding System (FACS)
+- [GIF Optimizer](https://ezgif.com/optimize)
 
 ## Prototyping
 
@@ -233,6 +239,7 @@ No need to mention the author.
 - [MockingBot](https://modao.cc/) Mobile prototyping tool without headache.
 - [POP](https://marvelapp.com/pop/?popref=1) Transform pen and paper ideas into a real working prototype.
 - [Prott](https://prottapp.com/) Prototyping tool for Web, iOS, Android apps.
+- [UI Names](https://uinames.com/)
 
 ## Mockup
 
@@ -447,6 +454,7 @@ No need to mention the author.
 - [DPI/PPI Calculator](https://www.sven.de/dpi/)
 - [Graphics Display Resolutions](https://en.wikipedia.org/wiki/Graphics_display_resolution)
 - [HEX to Decimal Converter](https://www.binaryhexconverter.com/hex-to-decimal-converter)
+- [SVG to Vector Drawable](http://inloop.github.io/svg2android/)
 
 ## Tutorial
 
