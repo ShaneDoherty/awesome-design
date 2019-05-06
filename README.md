@@ -438,6 +438,15 @@ No need to mention the author.
 - [Google Visual Assets Guidelines](https://www.behance.net/gallery/9028077/Google-Visual-Assets-Guidelines-Part-2)
 - [Google Design for Glass](https://developers.google.com/glass/design/)
 - [Google Material Design](https://material.io/guidelines/)
+- [Google Icons](https://material.io/tools/icons/?style=baseline)
+- [Density Cheatsheet](http://petrnohejl.github.io/Android-Cheatsheet-For-Graphic-Designers/)
+- [DP/PX Converter](https://www.pixplicity.com/dp-px-converter)
+- [Dev Docs](https://developer.android.com/design/index.html)
+- [9 Patch Guide](https://radleymarx.com/ux/simple-guide-to-9-patch/)
+- [Pixel Calculator](http://angrytools.com/android/pixelcalc/)
+- [DPI/PPI Calculator](https://www.sven.de/dpi/)
+- [Graphics Display Resolutions](https://en.wikipedia.org/wiki/Graphics_display_resolution)
+- [HEX to Decimal Converter](https://www.binaryhexconverter.com/hex-to-decimal-converter)
 
 ## Tutorial
 
