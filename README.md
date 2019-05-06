@@ -191,11 +191,14 @@ No need to mention the author.
 - [Sketchfab](https://sketchfab.com)
 - [Blueprints](https://www.the-blueprints.com/) Blueprints of vehicles
 - [Blueprints](https://drawingdatabase.com/) More blueprints of vehicles
+- [GLTF Viewer](https://gltf-viewer.donmccurdy.com/)
+
 
 ## 3D Inspiration
 - [Geo A Day](https://geoaday.com/) 3D Inspiration
 - [Tim Reynolds](https://www.turnislefthome.com/projects) 3D Artist
-- [Free 3D Models](https://free3d.com/)
+- [Keijiro's Dev Log](https://radiumsoftware.tumblr.com/archive#_=_)
+- [Andy Duboc Unity Shader Repo](https://github.com/andydbc?tab=repositories)
 
 ## Prototyping
 
@@ -434,6 +437,10 @@ No need to mention the author.
 - [eyedesyn](https://www.youtube.com/channel/UCjvsD9ZJRshsmhabFFUH7aA)
 - [C4D Tutorials](https://www.cinema4dtutorial.net/)
 - [Pluralsight](https://www.pluralsight.com/)
+- [Unity Learn](https://unity.com/learn)
+- [Ronja's Unity Shader Tutorials](http://www.ronja-tutorials.com/)
+- [Unreal Shader Doc](https://docs.unrealengine.com/en-us/)
+
 
 ## Book
 
