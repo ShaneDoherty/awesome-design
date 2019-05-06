@@ -181,7 +181,7 @@ No need to mention the author.
 ## UI Inspiration
 - [UpLabs](https://www.uplabs.com/) UI Kits and downloads
 - [Onboarding](https://www.useronboard.com/user-onboarding-teardowns/) breakdowns of popular onboardings
-- [UI Pattern](http://ui-patterns.com/
+- [UI Pattern](http://ui-patterns.com/)
 
 ## Software
 
