@@ -211,6 +211,7 @@ No need to mention the author.
 - [Video Copilot](https://www.videocopilot.net/)
 - [Easing](https://easings.net/en) Showcasing of types of easing
 - [Cubic Bezier](https://cubic-bezier.com) Create the data points for easing curve
+- [Facial Motion Ref](https://imotions.com/blog/facial-action-coding-system/) Facial Action Coding System (FACS)
 
 ## Prototyping
 
