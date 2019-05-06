@@ -9,7 +9,7 @@
 - [Color](#color)
 - [Typography](#typography)
 - [UI Inspiration](#ui-inspiration)
-- [3D](#3d-assets)
+- [3D Assets](#3d-assets)
 - [3D Inspiration](#3d-inspiration)
 - [Prototyping](#prototyping)
 - [Mockup](#mockup)
@@ -189,6 +189,8 @@ No need to mention the author.
 - [Free 3D Models](https://free3d.com/)
 - [Poly](https://poly.google.com/) Googles 3D creation showcase
 - [Sketchfab](https://sketchfab.com)
+- [Blueprints](https://www.the-blueprints.com/) Blueprints of vehicles
+- [Blueprints](https://drawingdatabase.com/) More blueprints of vehicles
 
 ## 3D Inspiration
 - [Geo A Day](https://geoaday.com/) 3D Inspiration
