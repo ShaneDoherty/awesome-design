@@ -162,7 +162,6 @@ No need to mention the author.
 - [Adobe Fonts](https://fonts.adobe.com/fonts) Enjoy quick browsing, easy use in desktop applications or on the web, and endless typographic inspiration.
 - [Google Fonts](https://fonts.google.com/)
 - [Google Font Combinations](https://femmebot.github.io/google-type/)
-- [justfont](http://blog.justfont.com/) 是新世代字型設計暨推廣教育團隊，致力於培育台灣下一代的設計力量。
 - [Font Library](http://katydecorah.com/font-library/)
 - [Type Guide](http://www.typogui.de/) A Pocket Guide to Master Every Day’s Typographic Adventures.
 - [DaFont](https://www.dafont.com/) Free fonts
