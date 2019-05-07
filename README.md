@@ -111,7 +111,6 @@ No need to mention the author.
 - [icon54](https://icon54.com)
 - [icons8](https://icons8.com/)
 - [Iconfinder](https://www.iconfinder.com/) provides high-quality icons to millions of creative professionals.
-- [icon dock](http://icondock.com/)
 - [Genericons Neue](https://genericons.com/) generic looking icons, suitable for a blog or simple website.
 - [FlatIcons.net](http://flaticons.net/) is a free flat icon maker.
 - [FLATICON](http://www.flaticon.com/)
@@ -120,7 +119,6 @@ No need to mention the author.
 - [The Noun Project](https://thenounproject.com/)
 - [Nucleoapp](https://nucleoapp.com/) is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons.
 - [Picons](https://picons.me/) Vector Icons for iOS, Android, Websites & Apps. Icons designed to perfection.
-- [Pictos](http://pictos.cc/) is back once again with Redux: all new carefully crafted interface icons. Each icon in Redux has three variations: Line, Solid & Color.
 - [Smashicons](https://smashicons.com/) is the largest and most distinct Icon Pack in the World. Smashicons offers the simplest, effortless way to use icons.
 - [Symbolset](https://symbolset.com/icons)
 - [logofaves](http://logofaves.com/)
