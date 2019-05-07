@@ -46,12 +46,8 @@
 - [UI Pattern](http://ui-patterns.com/)
 
 ## Artist Inspiration
-***COLLECTIONS***
 - [Twitter](https://twitter.com/) Following a lot of talented artists
-- [Google Dribbble](https://dribbble.com/google)
-- [Google Design](https://design.google/)
 - [Geo A Day](https://geoaday.com/) 3D Inspiration
-***BADASS ARTISTS***
 - [Beeple](https://www.beeple-crap.com/)
 - [Tim Reynolds](https://www.turnislefthome.com/projects) 3D Artist
 - [Keijiro's Dev Log](https://radiumsoftware.tumblr.com/archive#_=_)
