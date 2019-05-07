@@ -54,6 +54,8 @@
 - [Keijiro's Dev Log](https://radiumsoftware.tumblr.com/archive#_=_)
 - [Andy Duboc Unity Shader Repo](https://github.com/andydbc?tab=repositories)
 - [Liam Wong](https://www.liamwong.com/)
+- [Merk](https://twitter.com/Merkvilson)
+- [Dave](https://twitter.com/beesandbombs) GIF loop KING!
 
 ## Stock
 
