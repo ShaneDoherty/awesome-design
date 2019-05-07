@@ -567,6 +567,9 @@ No need to mention the author.
 
 ## Community
 
+- [Discord - We Can Fix It In UI](https://discordapp.com/channels/551773088279429131/552624155082752002)
+- [Discord - Weekly Gamejam](https://discordapp.com/channels/343313343773409282/343322145016905728)
+- [Discord - Unity Offical](https://discordapp.com/channels/489222168727519232/497867528488484864)
 - [ArtStation](https://dribbble.com/) Showcase Platform for Art & Design
 - [Dribbble](https://dribbble.com/) Show and tell for designers. 🌟
 - [Behance](https://www.behance.net/) Showcase and discover the latest work from top online portfolios by creative professionals across industries. 🌟
