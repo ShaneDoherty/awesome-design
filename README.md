@@ -212,7 +212,6 @@ No need to mention the author.
 - [Free 3D Models](https://free3d.com/)
 - [Mixamo](https://www.mixamo.com/#/)
 - [Poly](https://poly.google.com/) Googles 3D creation showcase
-- [Sketchfab](https://sketchfab.com)
 - [Blueprints](https://www.the-blueprints.com/) Blueprints of vehicles
 - [Blueprints](https://drawingdatabase.com/) More blueprints of vehicles
 - [GLTF Viewer](https://gltf-viewer.donmccurdy.com/)
