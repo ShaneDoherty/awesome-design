@@ -50,7 +50,6 @@
 - [Google Dribbble](https://dribbble.com/google)
 - [Google Design](https://design.google/)
 - [Geo A Day](https://geoaday.com/) 3D Inspiration
-
 - [Beeple](https://www.beeple-crap.com/)
 - [Tim Reynolds](https://www.turnislefthome.com/projects) 3D Artist
 - [Keijiro's Dev Log](https://radiumsoftware.tumblr.com/archive#_=_)
