@@ -11,7 +11,7 @@
 - [UI Inspiration](#ui-inspiration)
 - [3D Assets](#3d-assets)
 - [3D Inspiration](#3d-inspiration)
-- [Motion](#motion)
+- [Motion Tools](#motion-tools)
 - [Prototyping](#prototyping)
 - [Mockup](#mockup)
 - [User Testing](#user-testing)
@@ -214,9 +214,7 @@ No need to mention the author.
 - [Keijiro's Dev Log](https://radiumsoftware.tumblr.com/archive#_=_)
 - [Andy Duboc Unity Shader Repo](https://github.com/andydbc?tab=repositories)
 
-## Motion
-- [School of Motion](https://www.schoolofmotion.com/)
-- [Video Copilot](https://www.videocopilot.net/)
+## Motion Tools
 - [Easing](https://easings.net/en) Showcasing of types of easing
 - [Cubic Bezier](https://cubic-bezier.com) Create the data points for easing curve
 - [Facial Motion Ref](https://imotions.com/blog/facial-action-coding-system/) Facial Action Coding System (FACS)
@@ -483,6 +481,8 @@ No need to mention the author.
 - [School of Motion](https://www.schoolofmotion.com/tutorials)
 - [Video Copilot](https://www.videocopilot.net/tutorials/)
 - [Mat Trunks](https://mattrunks.com/en/tutorials) C4D Tutorials
+- [School of Motion](https://www.schoolofmotion.com/)
+- [Video Copilot](https://www.videocopilot.net/)
 
 ## Book
 
