@@ -9,6 +9,7 @@
 - [Color](#color)
 - [Typography](#typography)
 - [UI Inspiration](#ui-inspiration)
+- [Illustrations](#illustrations)
 - [3D Assets](#3d-assets)
 - [3D Inspiration](#3d-inspiration)
 - [Motion Tools](#motion-tools)
@@ -184,6 +185,10 @@ No need to mention the author.
 - [UpLabs](https://www.uplabs.com/) UI Kits and downloads
 - [Onboarding](https://www.useronboard.com/user-onboarding-teardowns/) breakdowns of popular onboardings
 - [UI Pattern](http://ui-patterns.com/)
+
+## Illustrations
+- [Google Dribbble](https://dribbble.com/google)
+- [Google Design](https://design.google/)
 
 ## 3D Assets
 - [Unity Asset Store](https://assetstore.unity.com/)
