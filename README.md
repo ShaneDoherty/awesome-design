@@ -2,16 +2,18 @@
 
 # Contents
 
+**INSPIRATION**
+- [UI Inspiration](#ui-inspiration)
+- [Illustrations](#illustrations)
+- [3D Inspiration](#3d-inspiration)
+
 **GET THINGS DONE**
 
 - [Stock](#stock)
 - [Icon and Logo](#icon-and-logo)
 - [Color](#color)
 - [Typography](#typography)
-- [UI Inspiration](#ui-inspiration)
-- [Illustrations](#illustrations)
 - [3D Assets](#3d-assets)
-- [3D Inspiration](#3d-inspiration)
 - [Motion Tools](#motion-tools)
 - [Prototyping](#prototyping)
 - [Mockup](#mockup)
