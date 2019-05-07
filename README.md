@@ -4,7 +4,7 @@
 
 **INSPIRATION**
 - [UI/UX Inspiration](#ui-inspiration)
-- [Artist Inspiration](#Artist-inspiration)
+- [Artists Killing It](#artists-killing-it)
 
 **GET THINGS DONE**
 
@@ -45,7 +45,7 @@
 - [Onboarding](https://www.useronboard.com/user-onboarding-teardowns/) breakdowns of popular onboardings
 - [UI Pattern](http://ui-patterns.com/)
 
-## Artist Inspiration
+## Artists Killing It
 - [Twitter](https://twitter.com/) Following a lot of talented artists
 - [Geo A Day](https://geoaday.com/) 3D Inspiration
 - [Google on Dribbble](https://dribbble.com/google)
