@@ -173,6 +173,7 @@ No need to mention the author.
 - [justfont](http://blog.justfont.com/) 是新世代字型設計暨推廣教育團隊，致力於培育台灣下一代的設計力量。
 - [Font Library](http://katydecorah.com/font-library/)
 - [Type Guide](http://www.typogui.de/) A Pocket Guide to Master Every Day’s Typographic Adventures.
+- [DaFont](https://www.dafont.com/) Free fonts
 - [workmark](https://wordmark.it/)
 - [fontfling](http://fontfling.com/)
 - [Glyphr Studio](http://www.glyphrstudio.com/online/)
