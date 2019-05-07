@@ -548,7 +548,6 @@ No need to mention the author.
 - [Shop Talk](http://shoptalkshow.com/) is an internet radio show about the internet starring [Dave Rupert](http://daverupert.com/) and [Chris Coyier](http://chriscoyier.net/).
 - [workmode](http://workmode.show/) is a podcast series about being a pro.
 - [UX Podcast](http://uxpodcast.com/) is a twice-monthly digital design podcast sharing insights about business, technology and people since 2011.
-- [Anyway.fm - 设计杂谈](http://anyway.fm/) 是一档播客节目，由 UI 设计师 JJ Ying 和 Leon Gao 主播，我们的目标是让你的听觉更懂视觉。
 - [The Deeply Graphic Design](http://thedeependdesign.com/graphic-design-podcast/) The web + graphic design podcast that offsers both pratical and creative design advice you can use.
 - [Tentative.fm](http://tentative.fm/) is a podcast about digital product design. Hosted by thoughtbot's Chief Design Officer Kyle Fiedler & Boston Design Director Jaclyn Perrone.
 - [Pagebreak](http://www.pagebreakpodcast.com/) is an audio podcast hosted by [Liz Andrade](http://cmdshiftdesign.com/) and [Niki Brown](http://nikibrown.com/).
@@ -556,14 +555,12 @@ No need to mention the author.
 - [The Greate Discontent Podcast](https://thegreatdiscontent.com/podcast) features in-depth conversations with today’s artists, makers, and risk-takers.
 - [Design Details Podcast](https://spec.fm/podcasts/design-details) A weekly conversation about design process and culture.
 - [Layout.fm](http://layout.fm/) A weekly podcast about design, technology, programming and everything else.
-- [Type is Beautiful - 字谈字畅](https://itunes.apple.com/podcast/zi-tan-zi-chang/id1041704528) 是第一档用华语制作的字体排印主题播客节目，由 Eric Liu 与钱争予搭档主播。
 - [Boagworld UX Show](https://boagworld.com/show/) Every Thursday Paul Boag and Marcus Lillington are joined by a variety of guests to discuss a range of web design related topics.
 - [Responsive Web Design Podcast](https://responsivewebdesign.com/podcast/) Karen and Ethan interview the people who make responsive redesigns happen.
 - [Adventures in Design](http://www.adventuresindesignmarket.com/)
 - [Let's Make Mistakes](http://www.mistakes.show/) is a podcast about design.
 - [The Hacking UI Podcast](http://hackingui.com/podcast/) is hosted by Sagi Shrieber and David Tintner, who are both a designer and developer as well as entrepreneurs, bloggers, productivity/time-hacker maniacs, and all around tech geeks.
 - [CodePen Radio](https://blog.codepen.io/radio/) is a podcast all about what it's like running a small web software business. The good, the bad, and the ugly.
-- [UX COFFEE - 设计咖](http://www.uxcoffee.com/) 设计无处不在。在这个节目里，我们试图探寻设计的力量、这个世界被创造的过程、以及参与设计了这个世界的人们。主播：Riceman、Hoka、帆啊帆、张挠挠。
 
 ## Community
 
