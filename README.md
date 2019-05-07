@@ -523,6 +523,9 @@ No need to mention the author.
 
 ## Conference and Festival
 
+- [Unity Unite](https://unite.unity.com/)
+- [GDC](https://www.gdconf.com/)
+- [Nordic Game Conference](https://conf.nordicgame.com/)
 - [Uideo](https://uideo.net) talks for designers from 69 ux/ui conferences all over the world.
 - [MAX](https://max.adobe.com/) Get inspired. Learn skills. Play.
 - [The AIGA Design Conference](http://designconference.aiga.org/#!/)
