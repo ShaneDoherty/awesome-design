@@ -5,6 +5,7 @@
 **INSPIRATION**
 - [UI/UX Inspiration](#ui-inspiration)
 - [Artists Killing It](#artists-killing-it)
+- [Showcases](#showcases)
 
 **GET THINGS DONE**
 
@@ -47,8 +48,6 @@
 
 ## Artists Killing It
 - [Twitter](https://twitter.com/ShaneDoherty) Following a lot of talented artists
-- [Geo A Day](https://geoaday.com/) 3D Inspiration
-- [Google on Dribbble](https://dribbble.com/google)
 - [Beeple](https://www.beeple-crap.com/)
 - [Tim Reynolds](https://www.turnislefthome.com/projects) 3D Artist
 - [Keijiro's Dev Log](https://radiumsoftware.tumblr.com/archive#_=_)
@@ -56,6 +55,11 @@
 - [Liam Wong](https://www.liamwong.com/)
 - [Merk](https://twitter.com/Merkvilson)
 - [Dave](https://twitter.com/beesandbombs) GIF loop KING!
+
+## Showcases
+- [Geo A Day](https://geoaday.com/) 3D Inspiration
+- [Google on Dribbble](https://dribbble.com/google)
+- [Archillect](https://twitter.com/archillect)
 
 ## Stock
 
