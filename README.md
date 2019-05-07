@@ -9,8 +9,8 @@
 **GET THINGS DONE**
 
 - [Stock](#stock)
-- [Icon and Logo](#icon-and-logo)
 - [Color](#color)
+- [Icon and Logo](#icon-and-logo)
 - [Typography](#typography)
 - [3D Assets](#3d-assets)
 - [Motion Tools](#motion-tools)
