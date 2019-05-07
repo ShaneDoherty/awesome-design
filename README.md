@@ -46,7 +46,7 @@
 - [UI Pattern](http://ui-patterns.com/)
 
 ## Artists Killing It
-- [Twitter](https://twitter.com/) Following a lot of talented artists
+- [Twitter](https://twitter.com/ShaneDoherty) Following a lot of talented artists
 - [Geo A Day](https://geoaday.com/) 3D Inspiration
 - [Google on Dribbble](https://dribbble.com/google)
 - [Beeple](https://www.beeple-crap.com/)
