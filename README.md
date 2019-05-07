@@ -4,7 +4,7 @@
 
 **INSPIRATION**
 - [UI Inspiration](#ui-inspiration)
-- [3D & Illustrations Inspiration](#3d-inspiration)
+- [3D & Illustrations Inspiration](#3d-&-illustration-inspiration)
 
 **GET THINGS DONE**
 
@@ -45,7 +45,7 @@
 - [Onboarding](https://www.useronboard.com/user-onboarding-teardowns/) breakdowns of popular onboardings
 - [UI Pattern](http://ui-patterns.com/)
 
-## 3D Inspiration
+## 3D & Illustration Inspiration
 - [Beeple](https://www.beeple-crap.com/)
 - [Geo A Day](https://geoaday.com/) 3D Inspiration
 - [Tim Reynolds](https://www.turnislefthome.com/projects) 3D Artist
