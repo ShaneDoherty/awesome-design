@@ -48,7 +48,6 @@
 ## Artist Inspiration
 - [Google Dribbble](https://dribbble.com/google)
 - [Google Design](https://design.google/)
-
 - [Twitter](https://twitter.com/) Following a lot of talented artists
 - [Beeple](https://www.beeple-crap.com/)
 - [Geo A Day](https://geoaday.com/) 3D Inspiration
