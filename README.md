@@ -485,7 +485,7 @@ No need to mention the author.
 - [School of Motion](https://www.schoolofmotion.com/)
 - [Video Copilot](https://www.videocopilot.net/)
 - [Unity - YouTube](https://www.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg)
-- [Brackleys (Unity) - YouTube](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
+- [Brackleys (Unity)](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 - [Unreal - YouTube](https://www.youtube.com/channel/UCBobmJyzsJ6Ll7UbfhI4iwQ)
 - [Dean Ashford (Unreal)](https://www.youtube.com/channel/UCAaWnOJ4iFSQluBVNS2d-Ew)
 - [Unreal CG](https://www.youtube.com/channel/UCb7A3-CWHgy5EejbfA9wbmw)
