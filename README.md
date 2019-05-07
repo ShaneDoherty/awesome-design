@@ -4,7 +4,7 @@
 
 **INSPIRATION**
 - [UI Inspiration](#ui-inspiration)
-- [Illustrations](#illustrations)
+- [Illustrations](#illustrations-inspiration)
 - [3D Inspiration](#3d-inspiration)
 
 **GET THINGS DONE**
@@ -32,6 +32,30 @@
 - [Conference and Festival](#conference-and-festival)
 - [Podcast](#podcast)
 - [Community](#community)
+
+## UI Inspiration
+- [Behance UI/UX](https://www.behance.net/search?field=132&content=projects&sort=featured_date&time=week&featured_on_behance=true)
+- [Dribbble](https://dribbble.com/)
+- [Awwwards](https://www.awwwards.com/)
+- [UpLabs](https://www.uplabs.com/) UI Kits and downloads
+- [Collect UI](https://collectui.com/)
+- [UI Movement](https://uimovement.com/)
+- [Muzli](https://medium.muz.li/)
+- [Inspirational UI](http://inspirationui.com/)
+- [UI Garage](https://uigarage.net/)
+- [Onboarding](https://www.useronboard.com/user-onboarding-teardowns/) breakdowns of popular onboardings
+- [UI Pattern](http://ui-patterns.com/)
+
+## Illustrations Inspiration
+- [Google Dribbble](https://dribbble.com/google)
+- [Google Design](https://design.google/)
+
+## 3D Inspiration
+- [Beeple](https://www.beeple-crap.com/)
+- [Geo A Day](https://geoaday.com/) 3D Inspiration
+- [Tim Reynolds](https://www.turnislefthome.com/projects) 3D Artist
+- [Keijiro's Dev Log](https://radiumsoftware.tumblr.com/archive#_=_)
+- [Andy Duboc Unity Shader Repo](https://github.com/andydbc?tab=repositories)
 
 ## Stock
 
@@ -183,15 +207,6 @@ No need to mention the author.
 - [TypeNetwork](https://www.typenetwork.com/)
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 
-## UI Inspiration
-- [UpLabs](https://www.uplabs.com/) UI Kits and downloads
-- [Onboarding](https://www.useronboard.com/user-onboarding-teardowns/) breakdowns of popular onboardings
-- [UI Pattern](http://ui-patterns.com/)
-
-## Illustrations
-- [Google Dribbble](https://dribbble.com/google)
-- [Google Design](https://design.google/)
-
 ## 3D Assets
 - [Unity Asset Store](https://assetstore.unity.com/)
 - [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/store)
@@ -204,14 +219,6 @@ No need to mention the author.
 - [Blueprints](https://drawingdatabase.com/) More blueprints of vehicles
 - [GLTF Viewer](https://gltf-viewer.donmccurdy.com/)
 - [Substance Source](https://source.allegorithmic.com/assets)
-
-
-## 3D Inspiration
-- [Beeple](https://www.beeple-crap.com/)
-- [Geo A Day](https://geoaday.com/) 3D Inspiration
-- [Tim Reynolds](https://www.turnislefthome.com/projects) 3D Artist
-- [Keijiro's Dev Log](https://radiumsoftware.tumblr.com/archive#_=_)
-- [Andy Duboc Unity Shader Repo](https://github.com/andydbc?tab=repositories)
 
 ## Motion Tools
 - [Easing](https://easings.net/en) Showcasing of types of easing
