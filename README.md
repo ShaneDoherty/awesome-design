@@ -46,7 +46,7 @@
 - [UI Pattern](http://ui-patterns.com/)
 
 ## 3D and Illustration Inspiration
-- [Twitter](https://twitter.com/)
+- [Twitter](https://twitter.com/) Following a lot of talented designers
 - [Beeple](https://www.beeple-crap.com/)
 - [Geo A Day](https://geoaday.com/) 3D Inspiration
 - [Tim Reynolds](https://www.turnislefthome.com/projects) 3D Artist
