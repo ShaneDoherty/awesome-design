@@ -2,7 +2,7 @@
 
 # Contents
 
-**Get things done**
+**JFDI**
 
 - [Stock](#stock)
 - [Icon and Logo](#icon-and-logo)
@@ -18,7 +18,7 @@
 - [Audio](#audio)
 - [Software](#software)
 
-**Concepts**
+**LEVEL UP**
 
 - [Read and Digest](#read-and-digest)
 - [Styleguide and Branding](#styleguide-and-branding)
