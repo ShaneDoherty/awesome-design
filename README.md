@@ -48,9 +48,6 @@
 - [picjumbo](https://picjumbo.com/) Download free stock photos, backgrounds and images in high‑resolution for personal and commercial use.
 - [Magdeleine](https://magdeleine.co/browse/) Hand-picked free photos for your inspiration.
 - [Pexels](https://www.pexels.com/) "he best free stock photos & videos shared by talented creators."
-- [imcreator](http://imcreator.com/)
-- [Startup Stock Photos](http://startupstockphotos.com/) Free photos for startups, bloggers, publishers, websites, designers, developers, creators,
-& everyone else.
 - [New Old Stock Photos](http://nos.twnsnd.co/) Vintage photos from the public archives, free of known copyright restrictions. recapturing history.
 - [Realistics Shots](http://realisticshots.com/) Free stock photos (high resolution) for personal and commercial use. 7 new photos every week.
 - [SplitShire](https://www.splitshire.com/) Free stock photos for commercial use.
@@ -61,7 +58,6 @@ No need to mention the author.
 - [MMT](https://mmtstock.com/) Free photos and videos for commercial use.
 - [JAY MANTRI](http://jaymantri.com/) free pics. do anything(CC0). make magic.
 - [FoodiesFeed](https://www.foodiesfeed.com/) is a resource of awesome naturally looking food photos that are completely free to download.
-- [Little Visuals](http://littlevisuals.co/)
 - [Bucketlistly Blog](http://photos.bucketlistly.com/) A free creative commons (Attribution-NonCommercial) collection of over 8000+ travel photos from all over the world anyone can use.
 - [Pinterest](https://www.pinterest.com/) is a social media web and mobile application company that operates a software system designed to discover information on the World Wide Web. 🌟
 - [pixabay](https://pixabay.com/) Over 1 million+ high quality stock images and videos shared by our talented community.
