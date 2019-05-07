@@ -151,7 +151,6 @@ No need to mention the author.
 
 - [typography](https://www.typography.com/)
 - [i love typography](http://ilovetypography.com/) was born on August 7, 2007. It exists because I have a passion for typography, type design, and lettering, and for the pages, words, and letters born of those disciplines.
-- [Type is Beautiful](https://www.typeisbeautiful.com/) 是一个关于文字设计和视觉文化的媒体计划。我们关注的话题包括字体、排版、平面设计、公共设计、技术和视觉文化。
 - [Butterick's Practical Typography](http://practicaltypography.com/)
 - [Fonts](https://www.fonts.com/) store from Monotype offers more than 150,000 desktop and Web font products for you to preview, purchase and download. You can also learn about new typeface releases and discover typographic tips and techniques.
 - [Font Squirrel](https://www.fontsquirrel.com/) 100% free for commercial use.
