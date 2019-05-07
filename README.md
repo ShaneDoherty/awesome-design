@@ -46,14 +46,16 @@
 - [UI Pattern](http://ui-patterns.com/)
 
 ## Artist Inspiration
+- [Google Dribbble](https://dribbble.com/google)
+- [Google Design](https://design.google/)
+
 - [Twitter](https://twitter.com/) Following a lot of talented artists
 - [Beeple](https://www.beeple-crap.com/)
 - [Geo A Day](https://geoaday.com/) 3D Inspiration
 - [Tim Reynolds](https://www.turnislefthome.com/projects) 3D Artist
 - [Keijiro's Dev Log](https://radiumsoftware.tumblr.com/archive#_=_)
 - [Andy Duboc Unity Shader Repo](https://github.com/andydbc?tab=repositories)
-- [Google Dribbble](https://dribbble.com/google)
-- [Google Design](https://design.google/)
+- [Liam Wong](https://www.liamwong.com/)
 
 ## Stock
 
