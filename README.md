@@ -33,7 +33,6 @@
 - [Community](#community)
 
 ## UI Inspiration
-- [We Fix In UI Discord - Inspiration Channel](https://discordapp.com/channels/551773088279429131/551912885086060579)
 - [Behance UI/UX](https://www.behance.net/search?field=132&content=projects&sort=featured_date&time=week&featured_on_behance=true)
 - [Dribbble](https://dribbble.com/)
 - [Awwwards](https://www.awwwards.com/)
