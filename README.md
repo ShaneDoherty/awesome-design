@@ -4,8 +4,7 @@
 
 **INSPIRATION**
 - [UI Inspiration](#ui-inspiration)
-- [Illustrations](#illustrations-inspiration)
-- [3D Inspiration](#3d-inspiration)
+- [3D & Illustrations Inspiration](#3d-inspiration)
 
 **GET THINGS DONE**
 
@@ -46,16 +45,14 @@
 - [Onboarding](https://www.useronboard.com/user-onboarding-teardowns/) breakdowns of popular onboardings
 - [UI Pattern](http://ui-patterns.com/)
 
-## Illustrations Inspiration
-- [Google Dribbble](https://dribbble.com/google)
-- [Google Design](https://design.google/)
-
 ## 3D Inspiration
 - [Beeple](https://www.beeple-crap.com/)
 - [Geo A Day](https://geoaday.com/) 3D Inspiration
 - [Tim Reynolds](https://www.turnislefthome.com/projects) 3D Artist
 - [Keijiro's Dev Log](https://radiumsoftware.tumblr.com/archive#_=_)
 - [Andy Duboc Unity Shader Repo](https://github.com/andydbc?tab=repositories)
+- [Google Dribbble](https://dribbble.com/google)
+- [Google Design](https://design.google/)
 
 ## Stock
 
