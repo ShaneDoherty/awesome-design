@@ -147,6 +147,7 @@ No need to mention the author.
 - [Genericons Neue](https://genericons.com/) generic looking icons, suitable for a blog or simple website.
 - [FlatIcons.net](http://flaticons.net/) is a free flat icon maker.
 - [FLATICON](http://www.flaticon.com/)
+- [Dark Matter](http://lukasz.io/darkmatter/) Free SciFi icon assets
 - [Evil Icons](http://evil-icons.io/) Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
 - [Typeicons](http://typicons.com/) are free-to-use vector icons embedded in a webfont for easy use in any UI, whether it be on the web or in a native app.
 - [The Noun Project](https://thenounproject.com/)
