@@ -482,7 +482,7 @@ No need to mention the author.
 - [DevDojo](https://devdojo.com/)
 - [Platzi](https://courses.platzi.com) Growth marketing Course.
 - [greyscalegorilla](https://greyscalegorilla.com/)
-- [eyedesyn](https://www.youtube.com/channel/UCjvsD9ZJRshsmhabFFUH7aA)
+- [eyedesyn](https://www.eyedesyn.com/tutorials/)
 - [C4D Tutorials](https://www.cinema4dtutorial.net/)
 - [Pluralsight](https://www.pluralsight.com/)
 - [Unity Learn](https://unity.com/learn)
