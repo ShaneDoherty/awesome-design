@@ -57,6 +57,9 @@
 - [Liam Wong](https://www.liamwong.com/)
 - [Merk](https://twitter.com/Merkvilson)
 - [Dave](https://twitter.com/beesandbombs) GIF loop KING!
+- [Živko Kondić](https://www.zhillustrator.com/) Incredible painter
+- [Ben The Illustrator](https://bentheillustrator.com/) Awesome flat style
+- [Matt Saunders](http://www.mattsaunders.ink) Colourful minimal style
 
 ## Showcases
 - [Geo A Day](https://geoaday.com/) 3D Inspiration
