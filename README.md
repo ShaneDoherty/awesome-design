@@ -47,6 +47,7 @@
 - [UI Garage](https://uigarage.net/)
 - [Onboarding](https://www.useronboard.com/user-onboarding-teardowns/) breakdowns of popular onboardings
 - [UI Pattern](http://ui-patterns.com/)
+- [Analog Algorithm](https://www.analog-algorithm.com/)
 
 ## Artists Killing It
 - [Twitter](https://twitter.com/ShaneDoherty) Following a lot of talented artists
