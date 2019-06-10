@@ -13,7 +13,7 @@
 - [Color](#color)
 - [Icon and Logo](#icon-and-logo)
 - [Typography](#typography)
-- [3D Assets](#3d-assets)
+- [Gamedev Assets](#gamedev-assets)
 - [Motion Tools](#motion-tools)
 - [Prototyping](#prototyping)
 - [Mockup](#mockup)
@@ -217,7 +217,7 @@ No need to mention the author.
 - [TypeNetwork](https://www.typenetwork.com/)
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 
-## 3D Assets
+## Gamedev Assets
 - [Unity Asset Store](https://assetstore.unity.com/)
 - [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/store)
 - [Sketchfab](https://sketchfab.com)
@@ -228,6 +228,7 @@ No need to mention the author.
 - [Blueprints](https://drawingdatabase.com/) More blueprints of vehicles
 - [GLTF Viewer](https://gltf-viewer.donmccurdy.com/)
 - [Substance Source](https://source.allegorithmic.com/assets)
+- [Open Game Art](https://opengameart.org/)
 
 ## Motion Tools
 - [Easing](https://easings.net/en) Showcasing of types of easing
